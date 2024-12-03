@@ -1,1 +1,1 @@
-enter mnemonic here. (support many mnemonic by line)
+enter mnemonic here. (support many mnemonics by line)
